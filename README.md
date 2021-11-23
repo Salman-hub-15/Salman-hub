@@ -8,12 +8,12 @@
 |3|533|Cse|2nd|
 |4|555|Cse|2nd|
 # Lists
-# Orderd Lists
+# Ordered Lists
 1. Dhoni Ms.
 2. Virat Kohli
 3. Rohit Sharma
 4. Kl Rahul
-# Unorderd Lists
+# Unordered Lists
 * Dhoni
 * Sachin Tendulkar
 * Rahul Dravid
