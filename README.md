@@ -1,4 +1,6 @@
 # Salman
+# Tables
+
 |Sno.|Roll no.|Branch|Year
 |1   |532     |Cse   |2nd
 |2   |540     |Cse   |2nd
